@@ -1,7 +1,7 @@
 {
-	"name": "fetcher",
+	"name": "@ihr/fetcher",
 	"version": "1.0.0",
-	"description": "Fetcher",
+	"description": "Fetcher, scraping and more APIs by iHateReading",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {
