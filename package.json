@@ -1,5 +1,5 @@
 {
-	"name": "@ihr/fetcher",
+	"name": "@karyam/fetcher",
 	"version": "1.0.0",
 	"description": "Fetcher, scraping and more APIs by iHateReading",
 	"main": "index.js",
